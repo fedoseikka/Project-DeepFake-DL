@@ -2,7 +2,7 @@
 
 
 <img width="770" height="200" alt="image" src="https://github.com/user-attachments/assets/b5df414b-a1a7-4c9a-be4a-f96d868fcbb0" />
-<img width="1302" height="709" alt="image" src="https://github.com/user-attachments/assets/72832a84-2f60-4d81-aee2-b2ecdd51fd67" />
+<img width="1299" height="705" alt="image" src="https://github.com/user-attachments/assets/b4daf639-84f3-4a69-a24a-3cd4a9e88d33" />
 <img width="596" height="125" alt="image" src="https://github.com/user-attachments/assets/f2663232-5efe-4511-89bb-5467f68563d4" />
 
 Для устранения проблемы была выполнена предварительная обработка видео: из каждого файла извлечены кадры, преобразованы в тензоры и сохранены на диск в формате .pt. Это позволило загружать уже готовые данные без дополнительных преобразований. Также все операции изменения размера и нормализации были перенесены на GPU.
